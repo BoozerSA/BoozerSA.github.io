@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.boozersa.taskcalendar",
+      "sha256_cert_fingerprints": [
+        "B0:4A:AC:3A:CA:29:E4:7C:A3:22:E7:16:D2:83:08:38:DC:3A:5A:2A:43:37:C3:FD:74:4D:05:1F:C4:B9:70:49"
+      ]
+    }
+  }
+]
